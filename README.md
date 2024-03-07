@@ -1,4 +1,5 @@
 # Open Source Geoscience
+Lists of open and free geoscience resources.
 
 ## Mapping
 * [QGIS](https://qgis.org/en/site/)
