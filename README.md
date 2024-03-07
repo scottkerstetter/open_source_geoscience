@@ -1,4 +1,4 @@
-# open_source_geoscience
+# Open Source Geoscience
 
 ## Mapping
 * [QGIS](https://qgis.org/en/site/)
